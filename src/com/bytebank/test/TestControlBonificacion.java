@@ -1,3 +1,9 @@
+package Test;
+
+import Modelo.ControlBonificacion;
+import Modelo.Funcionario;
+import Modelo.Gerente;
+
 public class TestControlBonificacion {
     public static void main(String[] args) {
         Funcionario jose = new Gerente();

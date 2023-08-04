@@ -1,3 +1,5 @@
+package Modelo;
+
 public class Admin extends Funcionario implements Autenticable {
 
     private LoginUtil util;

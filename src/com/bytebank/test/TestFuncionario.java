@@ -1,3 +1,8 @@
+package Test;
+
+import Modelo.Funcionario;
+import Modelo.Gerente;
+
 public class TestFuncionario {
     public static void main(String[] args) {
         Funcionario f1 = new Gerente();

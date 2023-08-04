@@ -1,3 +1,5 @@
+package Modelo;
+
 public abstract class Cuenta {
     Cliente titular = new Cliente();
     protected double saldo;

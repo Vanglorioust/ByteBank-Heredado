@@ -1,3 +1,5 @@
+package Modelo;
+
 public class Gerente extends Funcionario implements Autenticable {
     private LoginUtil util;
 

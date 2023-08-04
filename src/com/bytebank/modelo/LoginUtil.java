@@ -1,3 +1,5 @@
+package Modelo;
+
 public class LoginUtil {
     private String password;
     public boolean login(String password){

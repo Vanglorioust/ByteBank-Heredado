@@ -1,3 +1,5 @@
+package Modelo;
+
 public class InternSystem {
     private String password="123";
     public boolean login(Autenticable autenticable){

@@ -1,3 +1,5 @@
+package Modelo;
+
 public abstract class Funcionario {
     private String name;
     private String id;

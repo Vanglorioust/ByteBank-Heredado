@@ -1,3 +1,5 @@
+package Modelo;
+
 public interface Autenticable{
 
     public void setPassword(String password);

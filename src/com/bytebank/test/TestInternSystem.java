@@ -1,3 +1,9 @@
+package Test;
+
+import Modelo.Admin;
+import Modelo.Gerente;
+import Modelo.InternSystem;
+
 public class TestInternSystem {
     public static void main(String[] args) {
         InternSystem internSystem = new InternSystem();

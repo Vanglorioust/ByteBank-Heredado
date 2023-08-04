@@ -1,3 +1,8 @@
+package Test;
+
+import Modelo.CuentaAhorros;
+import Modelo.CuentaCorriente;
+
 public class TestCuenta {
     public static void main(String[] args) {
         CuentaCorriente cc = new CuentaCorriente(1,1);
